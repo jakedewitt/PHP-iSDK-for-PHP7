@@ -1,6 +1,6 @@
 {
     "name": "infusionsoft/php-isdk-for-php7",
-    "description": "The Unofficial Infusionsoft API PHP SDK for PHP 7",
+    "description": "The Unofficial Infusionsoft API PHP SDK for PHP 7.",
     "keywords": ["api","old","PHP7"],
     "version": "1.9.0",
     "license": "MIT",
